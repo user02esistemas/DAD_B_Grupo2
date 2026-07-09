@@ -1,1 +1,10 @@
 .gitnore
+/FisioCore_nb/build/
+/FisioCore_nb/dist/
+/FisioCore_nb/nbproject/private/
+/FisioServidorRMI_nb/build/
+/FisioServidorRMI_nb/dist/
+/FisioServidorRMI_nb/nbproject/private/
+/FisioWebCliente_nb/build/
+/FisioWebCliente_nb/dist/
+/FisioWebCliente_nb/nbproject/private/
